@@ -54,9 +54,9 @@ script listed above and it will install it for you =)
 
 # Install Stackato
 
-Get the Stackato client and the server from [ActiveState's downloads page](http://downloads.activestate.com/)
+Get the Stackato client and the server from [ActiveState's downloads page](http://downloads.activestate.com/).
 I recommend this link so you won't get any pesky marketing emails from us, as compared to if you try to
-download from [here...](http://www.activestate.com/stackato/download_vm)
+download from [here](http://www.activestate.com/stackato/download_vm).
 
 ## Server
 
